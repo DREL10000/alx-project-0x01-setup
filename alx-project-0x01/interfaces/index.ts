@@ -40,5 +40,5 @@ export interface UserProps {
 }
 
 export interface UserPageProps {
-    users: UserProps[];
+    posts: UserProps[];
 }
